@@ -1,0 +1,9 @@
+models/*.keras
+models/*.h5
+__pycache__/
+*.pyc
+.env
+.venv/
+models/*.keras
+data/raw/
+data/processed/
