@@ -7,3 +7,4 @@ __pycache__/
 models/*.keras
 data/raw/
 data/processed/
+additional_data/
